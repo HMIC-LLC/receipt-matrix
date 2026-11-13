@@ -1,0 +1,19 @@
+{
+  "status": "COMPLETED",
+  "model_id": "fictional-model-b",
+  "model_revision": null,
+  "quant": "Q8_0",
+  "runtime": "example-runtime",
+  "hardware": "example-computer-2",
+  "stage": "extract",
+  "condition": "A_baseline",
+  "seed": 17,
+  "requested_settings": {"temperature": 0},
+  "effective_settings": null,
+  "elapsed_seconds": 1.5,
+  "elapsed_time_basis": "example runner wall time",
+  "input_tokens": 24,
+  "output_tokens": 1,
+  "quality_score": null,
+  "quality_score_basis": null
+}

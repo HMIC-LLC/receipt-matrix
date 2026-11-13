@@ -1,0 +1,1 @@
+Read the fictional garden-pump status and answer RUN or STOP. Do not infer missing sensor readings.
