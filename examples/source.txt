@@ -1,0 +1,1 @@
+Fictional task: decide whether the garden pump should run. The pump is off when the reservoir is empty.
